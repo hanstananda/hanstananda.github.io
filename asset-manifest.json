@@ -1,12 +1,12 @@
 {
   "files": {
     "main.js": "/static/js/main.9044b468.chunk.js",
-    "runtime-main.js": "/static/js/runtime-main.ed5b477e.js",
+    "runtime-main.js": "/static/js/runtime-main.9fd57763.js",
     "static/css/2.e6924ae7.chunk.css": "/static/css/2.e6924ae7.chunk.css",
     "static/js/2.1d432a57.chunk.js": "/static/js/2.1d432a57.chunk.js",
     "static/js/3.97f4e442.chunk.js": "/static/js/3.97f4e442.chunk.js",
     "static/js/4.37675c62.chunk.js": "/static/js/4.37675c62.chunk.js",
-    "static/js/5.6b93271d.chunk.js": "/static/js/5.6b93271d.chunk.js",
+    "static/js/5.e4759971.chunk.js": "/static/js/5.e4759971.chunk.js",
     "static/js/6.dba2d2ba.chunk.js": "/static/js/6.dba2d2ba.chunk.js",
     "index.html": "/index.html",
     "static/js/2.1d432a57.chunk.js.LICENSE.txt": "/static/js/2.1d432a57.chunk.js.LICENSE.txt",
@@ -48,7 +48,7 @@
     "static/media/uoa-v-reverse1.2417ce0a.png": "/static/media/uoa-v-reverse1.2417ce0a.png"
   },
   "entrypoints": [
-    "static/js/runtime-main.ed5b477e.js",
+    "static/js/runtime-main.9fd57763.js",
     "static/css/2.e6924ae7.chunk.css",
     "static/js/2.1d432a57.chunk.js",
     "static/js/main.9044b468.chunk.js"
